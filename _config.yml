@@ -1,0 +1,17 @@
+title: BFN
+description: Built From Nothing, Built Together. Public pages for the BFN app.
+lang: en-GB
+contact_email: bfnmovement@gmail.com
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
