@@ -32,7 +32,7 @@ BFN is responsible for your personal information in the app. In data protection 
 
 | What we collect | Why we need it | Our legal reason |
 |---|---|---|
-| **Your account:** your email address, your password (stored scrambled, so nobody can read it, not even us) and a member number the app creates for you | To create your account, let you sign in and send you account emails, such as confirming your email address or resetting your password | **Contract:** we need it to provide the app you signed up for |
+| **Your account:** your email address, your password (stored scrambled, so nobody can read it, not even us), a member number the app creates for you, and when you confirmed you're 18 or over | To create your account, let you sign in and send you account emails, such as confirming your email address or resetting your password. We keep when you confirmed your age as a record that we checked | **Contract:** we need it to provide the app you signed up for. **Legitimate interests** for the record of your age confirmation: showing that our members are adults |
 | **Your profile:** your name, profile photo, bio and privacy settings | To show your profile to other members, in the way your privacy settings allow | **Contract** |
 | **What you share:** your posts, photos, videos and comments | To show them to the people you choose | **Contract** |
 | **Your connections:** who you follow, your reactions to posts and who you've blocked | To build your feed, show your reactions, and keep members you've blocked away from you | **Contract** |
@@ -114,7 +114,7 @@ If you're unhappy with how we've handled your information, please tell us, so we
 
 ## Age
 
-You must be **18 or over** to use the BFN app. If we learn that someone under 18 has an account, we'll delete it.
+You must be **18 or over** to use the BFN app. When you sign up, we ask you to confirm it, and we keep a note of when you did. We don't ask for your date of birth. If we learn that someone under 18 has an account, we'll delete it.
 
 ## Cookies and this website
 
